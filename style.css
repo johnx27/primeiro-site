@@ -1,0 +1,86 @@
+ body{
+    background-color:white;
+ }
+
+ .menu-principal{
+    background-color: black;
+    height: 70px;
+ }
+
+ .qd-img img {
+    height: 70px;
+    border-radius: 50%;
+ }
+ li{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+ }
+
+ .titulo h1{
+    margin-left: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-bottom: 0%;
+ }
+.data{
+    color:gray;
+}
+ 
+h3{
+    padding-top: 0%;
+    margin-left: 1%;
+    text-decoration:none;
+}
+
+.imagem-1 img{
+    height: 500px;
+    width:500px ;
+    
+}
+
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+
+}
+.fala{
+    margin-left: 10px;
+    margin-right: 50%;
+    font-family:Arial, Helvetica, sans-serif;
+    color: gray;
+}
+h4{
+    color: black;
+}
+
+.rodape footer{
+    display: flex;
+    padding-top: 100px;
+    justify-content: center;
+    margin-bottom: 80px;
+    text-align: center;
+}
+footer img{
+    height: 40px;
+    width: 40px;
+}
+
+.instagram{
+    height: 50px;
+    margin-right: 30px;
+}
+
+.chamada{
+    color: gray;
+    font-family:cursive;
+    position: relative;
+    top: 30px;
+    left:-150px;
+    margin-left: 0%;
+}
